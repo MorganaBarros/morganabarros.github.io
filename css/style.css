@@ -1,0 +1,30 @@
+body {
+  background-color: #eee;
+  margin: 0 auto; }
+
+.shop h1 {
+  text-transform: uppercase; }
+
+.col-md-8 {
+  padding: 0px;
+  height: 400px;
+  background-image: url(https://placeimg.com/930/400/animals);
+  background-repeat: no-repeat; }
+  .col-md-8 .jumbotron {
+    background-color: transparent;
+    padding-left: 50%; }
+
+.navbar-inverse {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  vertical-align: top;
+  border-radius: 0px; }
+
+.list-group {
+  background-color: white;
+  padding: 10px;
+  text-align: left; }
+  .list-group ul li {
+    list-style: none;
+    border: 0px solid; }
